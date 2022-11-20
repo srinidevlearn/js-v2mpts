@@ -1,3 +1,13 @@
-h1, h2 {
+h1,
+h2 {
   font-family: Lato;
+}
+
+div.active {
+  color: red;
+  border-bottom: 5px solid red;
+}
+
+div.card.carosel {
+  display: none;
 }
